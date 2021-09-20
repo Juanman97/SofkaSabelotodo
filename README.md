@@ -16,7 +16,7 @@ Sabelotodo es un programa de preguntas y respuestas, en donde cada categoría re
 ## Detalles
 
 ### Estructura del proyecto
-El proyecto de java está estructurado utilizando MVC, distribuido en diferentes paquetes de la siguiente forma:
+El proyecto fue realizado en la versión 8 de java, y está estructurado utilizando *MVC* (*Model-View-Controller*), distribuido en diferentes paquetes de la siguiente forma:
 * El paquete *Access* contiene los archivos necesarios para conectar java con la base de datos.
 * El paquete *Utils* contiene archivos útiles para el proyecto, como la conexión con la base de datos.
 * El paquete *Model* contiene los objetos relacionados a las tablas de la base de datos *Questions*, *Answers* y *Points*.
